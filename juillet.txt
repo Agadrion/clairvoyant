@@ -10,7 +10,7 @@ William et Arnaud homme de main de Philippe depuis le début ? non
 William et Arnaud font partie de la secte depuis le début ? non
 )
 
-Vivian est venue en France avec ses enfants sur Paris en Juillet. Morgan et Christopher sont venus également.
+Vivian est venue en France avec ses enfants sur Paris en Juillet. Morgan et Chris sont venus également.
 Et mes parents n'ont pas voulu les héberger. Peut-être parce que Vivian a déjà des enfants et qu'ils voulaient faire un voyage avec moi 
 et que mes parents étaient plutôt du genre à dire 'faut travailler'.
 Morgan et Vivian ont rencontré José dès le mois de Juillet.
@@ -78,7 +78,7 @@ partie 2 jusqu'au weekend à st sim
 5
 Vivian
 Morgan
-José|Christopher
+José|Chris
 Willy
 Arnaud
 
