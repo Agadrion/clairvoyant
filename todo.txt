@@ -16,9 +16,33 @@ wip- voyage montagne (empoisonnement, sport extrême, les secouristes, (Mathias 
 video:
 ------
 
-- juillet, arrivée en France, rencontre de José, dîner au restaurant italien avec Arnaud et William.
-- ...
-- de chez william à l'hôtel, épisode de l'ascenseur
-- début octobre, casse car Vivian croit que je suis un enfoiré
-- Vacances dans le sud de la France
-- 5 décembre 2018 21h
+- Hôtel
+- Script Août
+- 4 Décembre
+- 5 Décembre
+- 6 Décembre
+- 7 Décembre
+- José complice Philippe
++ José coupe micro Anne-Lyse
++ José école de commerce
+
+questions:
+----------
+vivian:
+? Vivian et Morgan plainte en vain (script Vivian)
+
+josé:
+? José fume ? puis vapote ?
+
+calendrier:
+? José responsable de la proposition d'embauche d'Amadeus dans le sud de la France Mardi 17 Juillet 2018 ?
+
+juin:
+? Le thalès fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ?
+  A quel moment il y a eu viol ? Peut-on dire que José y a participé ?
+
+common.index:
+? Quand Vivian ou Morgan a commencé à discuter avec Magda ?
+  Est-ce que cet échange avec Magda a redonné plus envie à Vivian de me revoir.
+  (Affiner Magda et collègues CAPFI ?)
+? Clarifier problème adresse 
