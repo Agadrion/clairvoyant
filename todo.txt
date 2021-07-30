@@ -11,7 +11,14 @@ v- Rose blanche
 ?- l'eau
 wip- voyage montagne (empoisonnement, sport extrême, les secouristes, (Mathias & Mika ?), viol)
 - Molky
-(- Vivian fait du tennis ?)
+
+scripts:
+--------
+aout:
+- parler de rencontre Romain
+
+septembre:
+- détailler week-end Maud à Besançon
 
 video:
 ------
