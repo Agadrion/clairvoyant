@@ -15,7 +15,7 @@ wip- voyage montagne (empoisonnement, sport extrême, les secouristes, (Mathias 
 scripts:
 --------
 aout:
-- parler de rencontre Romain
+/ parler de rencontre Romain
 
 septembre:
 - détailler week-end Maud à Besançon
@@ -35,6 +35,15 @@ video:
 
 questions:
 ----------
+calendrier:
+? José responsable de la proposition d'embauche d'Amadeus dans le sud de la France Mardi 17 Juillet 2018 ? 
+
+common.index:
+? Quand Vivian ou Morgan a commencé à discuter avec Magda ? 
+  Est-ce que cet échange avec Magda a redonné plus envie à Vivian de me revoir. 
+  (Affiner Magda et collègues CAPFI ?)
+? Clarifier problème adresse 
+
 vivian:
 ? Vivian et Morgan plainte en vain (script Vivian) 
 
@@ -43,25 +52,19 @@ josé:
 ? José et Philippe proposaient à des clients de venir violer eux mêmes Vivian...? 
 ? depuis quand sont-ils complices ? 
 
-calendrier:
-? José responsable de la proposition d'embauche d'Amadeus dans le sud de la France Mardi 17 Juillet 2018 ? 
-
 juin:
-? Le thalès fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
+? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
   A quel moment il y a eu viol ? Peut-on dire que José y a participé ? 
-
-common.index:
-? Quand Vivian ou Morgan a commencé à discuter avec Magda ? 
-  Est-ce que cet échange avec Magda a redonné plus envie à Vivian de me revoir. 
-  (Affiner Magda et collègues CAPFI ?)
-? Clarifier problème adresse 
 
 aout:
 ? Pourquoi personne n'est venu le soir du 27 ? 
 ? Vivian ne désirait toujours pas me revoir plus que ça ? 
 
+misc:
+? Quand les viols dans l'hôtel ont commencé ?
 ? Qui était en communication avec ma mère ? Lionel ? José ? 
 ? Pourquoi ne pas vivre chez José ? car Philippe ne voulait pas ? car Morgan ne voulait pas ? 
   car Vivian cherchait un mari à tout prix et que c'était non pour José, et qu'elle cherchait quelqu'un d'autre ? 
 ? Vivian et Morgan ont compris qu'il ne fallait pas faire confiance à Lionel ?
   Si oui, à partir de quand ?
+? Coupure WIFI à comprendre ? En lien avec Lionel/José ? Fin aout ?
