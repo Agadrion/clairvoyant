@@ -24,14 +24,12 @@ video:
 ------
 
 - Hôtel
-- Script Août
+/ Script Août
 - 4 Décembre
 - 5 Décembre
 - 6 Décembre
 - 7 Décembre
-- José complice Philippe
-+ José coupe micro Anne-Lyse
-+ José école de commerce
+/ José
 
 questions:
 ----------
@@ -43,6 +41,9 @@ common.index:
   Est-ce que cet échange avec Magda a redonné plus envie à Vivian de me revoir. 
   (Affiner Magda et collègues CAPFI ?)
 ? Clarifier problème adresse 
+
+hotel:
+? Vivian s'est marié avec Arnaud ? assez tôt dans leur relation ?
 
 vivian:
 ? Vivian et Morgan plainte en vain (script Vivian) 
@@ -57,7 +58,7 @@ juin:
   A quel moment il y a eu viol ? Peut-on dire que José y a participé ? 
 
 aout:
-? Pourquoi personne n'est venu le soir du 27 ? 
+/ Pourquoi personne n'est venu le soir du 27 ? 
 ? Vivian ne désirait toujours pas me revoir plus que ça ? 
 
 misc:
@@ -70,3 +71,4 @@ misc:
 ? Coupure WIFI à comprendre ? En lien avec Lionel/José ? Fin aout ? 
 ? Vivian n'avait plus envie de moi depuis Juin jusqu'à quand ? 
 ? Est-ce que Philippe voulait se débarasser de José ? Si oui, à partir de quand ? 
+? Arnaud battait sa femme ? à coups de pieds ? 
