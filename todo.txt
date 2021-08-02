@@ -20,6 +20,12 @@ aout:
 septembre:
 - détailler week-end Maud à Besançon
 
+philippe:
+- expliquer préférence Willy plutôt José. Philippe veut un gendre qui ne soit pas trop 
+  intéressé par l'argent et qui l'autorise à coucher avec Vivian.
+- paragraphe sur son cousin photographe et complice dans l'activité des viols et du business qui entoure les viols.
+  (Ce viol est photographié par un homme noir avec une barbe qui se trouve être le cousin de Philippe.)
+
 video:
 ------
 
@@ -44,6 +50,7 @@ common.index:
 
 hotel:
 ? Vivian s'est marié avec Arnaud ? assez tôt dans leur relation ?
+? Le lieu où était enfermé Vivian, Morgan était une pièce secrète ?
 
 vivian:
 ? Vivian et Morgan plainte en vain (script Vivian) 
@@ -52,6 +59,7 @@ josé:
 ? José fume ? puis vapote ? 
 ? José et Philippe proposaient à des clients de venir violer eux mêmes Vivian...? 
 ? depuis quand sont-ils complices ? 
+? José possédait une pièce secrète depuis laquelle il était faisait ses opérations d'espionnage à son propre compte ?
 
 juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
