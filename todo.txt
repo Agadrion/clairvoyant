@@ -61,7 +61,9 @@ josé:
 ? José et Philippe proposaient à des clients de venir violer eux mêmes Vivian...? 
 ? depuis quand sont-ils complices ? 
 ? José possédait une pièce secrète depuis laquelle il faisait ses opérations d'espionnage à son propre compte ?
-!? José ne se genait pas pour fumer en voiture ? Il jetait son mégot par la fenetre ? 
+? José ne se genait pas pour fumer en voiture ? Il jetait son mégot par la fenetre ? 
+? José a essayé de faire chanter Philippe ? 
+  ou il a vu une opportunité de se rapprocher de Philippe en proposant de vendre photos/vidéos ? 
 
 juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
@@ -69,10 +71,10 @@ juin:
 
 juillet:
 ? Ugo était présent au bar ? On lui a fait boire de l'alcool ? 
-!? Le bar était pas fréquentable ? 
-!? Dans le bar, ça a failli/ça s'est fini en baston ?
+(? Le bar était pas fréquentable ? )
+(? Dans le bar, ça a failli/ça s'est fini en baston ?)
 ? Qui les a conduit dans ce (trou à rats) bar ?
-!? clarifier eurosdisney|parc astérix.
+? clarifier eurosdisney|parc astérix.
 ? Le 14 Juillet, José|William fait sa demande en marriage à Vivian.
 
 aout:
@@ -80,10 +82,11 @@ aout:
 ? Vivian ne désirait toujours pas me revoir plus que ça ? 
 
 misc:
+? "Si elle le quitte, il la tue.", et "On ne tue pas par amour" qui/quand ?
 ? Quand les viols dans l'hôtel ont commencé ? 
 ? Qui était en communication avec ma mère ? Lionel ? José ? 
 ? Pourquoi ne pas vivre chez José ? car Philippe ne voulait pas ? car Morgan ne voulait pas ? 
-  car Vivian cherchait un mari à tout prix et que c'était non pour José, et qu'elle cherchait quelqu'un d'autre ? 
+  car Vivian cherchait un mari à tout prix et que c'était non pour José
 ? Vivian et Morgan ont compris qu'il ne fallait pas faire confiance à Lionel ? 
   Si oui, à partir de quand ? 
 ? Coupure WIFI à comprendre ? En lien avec Lionel/José ? Fin aout ? 
