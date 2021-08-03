@@ -53,17 +53,26 @@ hotel:
 ? Le lieu où était enfermé Vivian, Morgan était une pièce secrète ?
 
 vivian:
-? Vivian et Morgan plainte en vain (script Vivian) 
+? Vivian et Morgan plainte en vain (script Vivian) ?
+? Vivian a une fille qui s'appelle Vanessa ?
 
 josé:
 ? José fume ? puis vapote ? 
 ? José et Philippe proposaient à des clients de venir violer eux mêmes Vivian...? 
 ? depuis quand sont-ils complices ? 
 ? José possédait une pièce secrète depuis laquelle il était faisait ses opérations d'espionnage à son propre compte ?
+!? José ne se genait pas pour fumer en voiture ? Il jetait son mégot par la fenetre ? 
 
 juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
   A quel moment il y a eu viol ? Peut-on dire que José y a participé ? 
+
+juillet:
+? Ugo était présent au bar ? On lui a fait boire de l'alcool ? 
+!? Le bar était pas fréquentable ? 
+!? Dans le bar, ça a failli/ça s'est fini en baston ?
+? Qui les a conduit dans ce (trou à rats) bar ?
+!? clarifier eurosdisney|parc astérix.
 
 aout:
 / Pourquoi personne n'est venu le soir du 27 ? 
@@ -81,3 +90,4 @@ misc:
 ? Est-ce que Philippe voulait se débarasser de José ? Si oui, à partir de quand ? 
 ? Arnaud battait sa femme ? à coups de pieds ? 
 ? Arnaud connait Vivian comment ? Depuis le restau du 14 Juillet ? 
+? Pourquoi le Lundi ou le Vendredi ? Et pas le Mardi, le Mercredi ou le Jeudi ? ça dépendait que de Morgan ou Vivian aussi ? 
