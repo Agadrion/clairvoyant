@@ -20,6 +20,9 @@ aout:
 septembre:
 - détailler week-end Maud à Besançon
 
+juin:
+- détailler la semaine suivant le rdv raté, surtout le fameux jeudi.
+
 philippe:
 - expliquer préférence Willy plutôt José. Philippe veut un gendre qui ne soit pas trop 
   intéressé par l'argent et qui l'autorise à coucher avec Vivian.
@@ -53,8 +56,9 @@ hotel:
 ? Le lieu où était enfermé Vivian, Morgan était une pièce secrète ?
 
 vivian:
-? Vivian et Morgan plainte en vain (script Vivian) ?
-? Vivian a une fille qui s'appelle Vanessa ?
+? Vivian et Morgan plainte en vain (script Vivian) ? 
+? Vivian a une fille qui s'appelle Vanessa ? 
+? Vivian a appris à faire de la boxe ? du kung-fu avec José ? Il faut précisé que Vivian s'est battue le 5 déc ? 
 
 josé:
 ? José fume ? puis vapote ? 
