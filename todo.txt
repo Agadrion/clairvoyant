@@ -20,14 +20,23 @@ aout:
 septembre:
 - détailler week-end Maud à Besançon
 
+octobre:
+- Expliquer José prêt à donner une chance de voir Morgan...
+
+novembre:
+- Lionel qui parle de son pot de départ ? aurait-il dû parler du départ prochainde Morgan ?
+
 juin:
 - détailler la semaine suivant le rdv raté, surtout le fameux jeudi.
 
 philippe:
-- expliquer préférence Willy plutôt José. Philippe veut un gendre qui ne soit pas trop 
+/ expliquer préférence Willy plutôt José. Philippe veut un gendre qui ne soit pas trop 
   intéressé par l'argent et qui l'autorise à coucher avec Vivian.
-- paragraphe sur son cousin photographe et complice dans l'activité des viols et du business qui entoure les viols.
+/ paragraphe sur son cousin photographe et complice dans l'activité des viols et du business qui entoure les viols.
   (Ce viol est photographié par un homme noir avec une barbe qui se trouve être le cousin de Philippe.)
+
+vivian:
+- elle faisait des études de médecines sur Paris.
 
 video:
 ------
@@ -55,6 +64,12 @@ hotel:
 ? Vivian s'est marié avec Arnaud ? assez tôt dans leur relation ?
 ? Le lieu où était enfermé Vivian, Morgan était une pièce secrète ?
 
+moi: 
+? faire une vidéo sur la santé de mes pieds ?
+
+chris:
+? après le 5 déc, chris a eu le bras en attèle ? dans le platre ? 
+
 vivian:
 ? Vivian et Morgan plainte en vain (script Vivian) ? 
 ? Vivian a une fille qui s'appelle Vanessa ? 
@@ -68,6 +83,7 @@ josé:
 ? José ne se genait pas pour fumer en voiture ? Il jetait son mégot par la fenetre ? 
 ? José a essayé de faire chanter Philippe ? 
   ou il a vu une opportunité de se rapprocher de Philippe en proposant de vendre photos/vidéos ? 
+? José a fait HEC ? a demandé à Morgan de lui payer des études à HEC ? (cf. josé.index)
 
 juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
@@ -99,3 +115,4 @@ misc:
 ? Arnaud battait sa femme ? à coups de pieds ? 
 ? Arnaud connait Vivian comment ? Depuis le restau du 14 Juillet ? 
 ? Pourquoi le Lundi ou le Vendredi ? Et pas le Mardi, le Mercredi ou le Jeudi ? ça dépendait que de Morgan ou Vivian aussi ? 
+? Antoine intermédiaire de qui à la SG ('moi ce que j'aime c'est avoir un gros tas de fric', 'moi je veux la même chose qu'Aymeric et ça et ça') ? 
