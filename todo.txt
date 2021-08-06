@@ -18,7 +18,7 @@ aout:
 / parler de rencontre Romain
 
 septembre:
-- détailler week-end Maud à Besançon
+/ détailler week-end Maud à Besançon
 
 octobre:
 - Expliquer José prêt à donner une chance de voir Morgan...
@@ -43,10 +43,11 @@ video:
 
 - Hôtel
 / Script Août
-- 4 Décembre
+/ 3 Décembre
+/ 4 Décembre
 - 5 Décembre
-- 6 Décembre
-- 7 Décembre
+/ 6 Décembre
+/ 7 Décembre
 / José
 
 questions:
@@ -59,6 +60,7 @@ common.index:
   Est-ce que cet échange avec Magda a redonné plus envie à Vivian de me revoir. 
   (Affiner Magda et collègues CAPFI ?)
 ? Clarifier problème adresse 
+? Se défendre face à l'accusation d'alcoolisme ? (cf. common.index)
 
 hotel:
 ? Vivian s'est marié avec Arnaud ? assez tôt dans leur relation ?
@@ -101,6 +103,9 @@ juillet:
 aout:
 / Pourquoi personne n'est venu le soir du 27 ? 
 ? Vivian ne désirait toujours pas me revoir plus que ça ? 
+
+septembre:
+? José et Philippe prêt à me voir en échange sexe avec Vivian et Morgan ? (cf. script_septembre.index)
 
 misc:
 ? "Si elle le quitte, il la tue.", et "On ne tue pas par amour" qui/quand ?
