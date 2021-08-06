@@ -63,6 +63,7 @@ common.index:
 hotel:
 ? Vivian s'est marié avec Arnaud ? assez tôt dans leur relation ?
 ? Le lieu où était enfermé Vivian, Morgan était une pièce secrète ?
+? polaroid ? (cf. common.index)
 
 moi: 
 ? faire une vidéo sur la santé de mes pieds ?
