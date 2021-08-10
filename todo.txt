@@ -112,6 +112,9 @@ aout:
 septembre:
 ? José et Philippe prêt à me voir en échange sexe avec Vivian et Morgan ? (cf. script_septembre.index)
 
+decembre:
+? voiture warning ? accident voiture ? heure du crime 0h ?
+
 misc:
 ? "Si elle le quitte, il la tue.", et "On ne tue pas par amour" qui/quand ?
 ? Quand les viols dans l'hôtel ont commencé ? 
