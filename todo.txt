@@ -69,6 +69,7 @@ hotel:
 
 moi: 
 ? faire une vidéo sur la santé de mes pieds ?
+? On a fait croire que je me déguisais en femme ? Que je me travestissais ?
 
 chris:
 ? après le 5 déc, chris a eu le bras en attèle ? dans le platre ? 
@@ -87,6 +88,10 @@ josé:
 ? José a essayé de faire chanter Philippe ? 
   ou il a vu une opportunité de se rapprocher de Philippe en proposant de vendre photos/vidéos ? 
 ? José a fait HEC ? a demandé à Morgan de lui payer des études à HEC ? (cf. josé.index)
+
+arnaud:
+? originaire du Mali ?
+? joue au basket ? partie de basket ?
 
 juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
@@ -121,4 +126,6 @@ misc:
 ? Arnaud battait sa femme ? à coups de pieds ? 
 ? Arnaud connait Vivian comment ? Depuis le restau du 14 Juillet ? 
 ? Pourquoi le Lundi ou le Vendredi ? Et pas le Mardi, le Mercredi ou le Jeudi ? ça dépendait que de Morgan ou Vivian aussi ? 
+  Disponibilité de Morgan en Automne 2018 : dimanche, mardi, mercredi, vendredi ?
 ? Antoine intermédiaire de qui à la SG ('moi ce que j'aime c'est avoir un gros tas de fric', 'moi je veux la même chose qu'Aymeric et ça et ça') ? 
+? Canada, on a cru que j'étais intéressé par aller vivre au Canada ? Une personne en rapport avec le Canada ?
