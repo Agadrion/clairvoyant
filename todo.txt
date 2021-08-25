@@ -27,7 +27,7 @@ novembre:
 - Lionel qui parle de son pot de départ ? aurait-il dû parler du départ prochainde Morgan ?
 
 juin:
-- détailler la semaine suivant le rdv raté, surtout le fameux jeudi.
+/ détailler la semaine suivant le rdv raté, surtout le fameux jeudi.
 
 philippe:
 / expliquer préférence Willy plutôt José. Philippe veut un gendre qui ne soit pas trop 
@@ -78,6 +78,11 @@ vivian:
 ? Vivian et Morgan plainte en vain (script Vivian) ? 
 ? Vivian a une fille qui s'appelle Vanessa ? 
 ? Vivian a appris à faire de la boxe ? du kung-fu avec José ? Il faut précisé que Vivian s'est battue le 5 déc ? 
+? Vivian enceinte de Philippe et José ? ou seulement José ?
+
+morgan:
+? Enceinte de José ? 
+? de Philippe ?
 
 josé:
 ? José fume ? puis vapote ? 
@@ -97,6 +102,10 @@ juin:
 ? Le viol à 5 fin juin impliquait qui ? Vivian, Morgan, José, Philippe et le cousin photographe ? 
   A quel moment il y a eu viol ? Peut-on dire que José y a participé ? 
 ? Vivian a quitté Northampton quand ?
+
+zoé:
+? est-ce que l'un des 6 a eu une relation sexuelle avec Zoé ?
+? enceinte ?
 
 juillet:
 ? Ugo était présent au bar ? On lui a fait boire de l'alcool ? 
@@ -133,3 +142,6 @@ misc:
   Disponibilité de Morgan en Automne 2018 : dimanche, mardi, mercredi, vendredi ?
 ? Antoine intermédiaire de qui à la SG ('moi ce que j'aime c'est avoir un gros tas de fric', 'moi je veux la même chose qu'Aymeric et ça et ça') ? 
 ? Canada, on a cru que j'étais intéressé par aller vivre au Canada ? Une personne en rapport avec le Canada ?
+! liste sports
+
+((? Comment raconter ?))
