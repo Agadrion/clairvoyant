@@ -24,7 +24,7 @@ octobre:
 - Expliquer José prêt à donner une chance de voir Morgan...
 
 novembre:
-- Lionel qui parle de son pot de départ ? aurait-il dû parler du départ prochainde Morgan ?
+- Lionel qui parle de son pot de départ ? aurait-il dû parler du départ prochain de Morgan ?
 
 juin:
 / détailler la semaine suivant le rdv raté, surtout le fameux jeudi.
@@ -134,6 +134,7 @@ septembre:
 
 decembre:
 ? voiture warning ? accident voiture ? heure du crime 0h ?
+  (voiture rouge warning)
 
 misc:
 ? "Si elle le quitte, il la tue.", et "On ne tue pas par amour" qui/quand ?
