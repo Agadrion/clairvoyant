@@ -12,6 +12,13 @@ v- Rose blanche
 wip- voyage montagne (empoisonnement, sport extrême, les secouristes, (Mathias & Mika ?), viol)
 - Molky
 
+personnes:
+----------
+- Benjamin (pote Lionel)
+- Benjamin Schechter
+- Antoine
+- Eric (CAPFI (Technology))
+
 scripts:
 --------
 aout:
@@ -34,6 +41,7 @@ philippe:
   intéressé par l'argent et qui l'autorise à coucher avec Vivian.
 / paragraphe sur son cousin photographe et complice dans l'activité des viols et du business qui entoure les viols.
   (Ce viol est photographié par un homme noir avec une barbe qui se trouve être le cousin de Philippe.)
+- variante adresse José|Philippe >> josé_03, josé_14
 
 vivian:
 - elle faisait des études de médecines sur Paris.
