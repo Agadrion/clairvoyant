@@ -164,3 +164,75 @@ misc:
 ! liste sports
 
 ((? Comment raconter ?))
+
+misc2:
+
+Coca qui ? pourquoi ?
+  Philippe ? 
+  Vivian ? 
+  Chris ?
+Les bonbons, qui ? pourquoi ?
+Whiskey qui ?
+  Philippe ? 
+  Father ?
+Kebab pourquoi ? 
+Burger qui ? pourquoi ?
+
+Diabète qui ?
+  moi ?
+  Philippe ?
+  Father ?
+
+Randonnée une fois par mois :
+ Août : ?
+ Septembre : Jura
+ Octobre : Pyrénnées ?
+ Novembre : ? 
+
+Voiture warning
+Voiture roues trafiquées
+Sylvestre'Si Agathe a un accident et décède, je touche l'assurance de 200K€'
+  Qui a dit ça : Philippe en pensant à Morgan ?
+Dépanneur'Gars laisse tomber, une vraie salope ça reste une vraie salope'
+Moi'ça concerne qui la voiture warning ?' > camionette warning et derrière 'Adidas orange'
+  :> Vivian et Chris ont eu une panne de voiture ? ça a été l'occasion de s'envoyer à l'air ? 
+Maud et Agathe en randonnée dans les Pyrénnées. :> Vivian et Morgan en randonnée dans les Pyrénnées ? QUAND ? 
+  Elles ont eu un accident de voiture ? une panne de voiture ? 
+  (rappel: news mec qui cherche le corps de sa femme dans les Pyrénnées.)
+  ::> Philippe espérait se débarasser de Morgan lors de ce voyage ? 
+
+Voiture aux vitres teintées qui ? qui a crié 'Hey!'
+  pourquoi 'Hey!' plutôt que 'Bonjour' ? Car 'je savais pas si t'étais dangereux' ? 
+Bus qui conduisait mal.
+Camping car, quand voyage dans le sud ? dans les Pyrénnes ? all journeys ? 
+
+Voyage une semaine en Andalousie. QUAND ? 
+
+Eurodisney quand ? j'étais invité ? 
+Parc Astérix quand ? j'étais invité ? 
+
+Date du marriage de Vivian et Chris ? 
+Quand Vivian a rencontré Chris, depuis le Smith College ? William a partagé le contact ?
+
+Quand cela s'est fini entre William et Vivian ?
+Une occurence de viol de Vivian et Morgan à l'hôtel :
+  date~ ?
+  William et Arnaud ont violé Vivian et/ou Morgan à l'hôtel ? 
+    comment, vu que Vivian ne voulait plus de William ? Ils avaient la bénédiction de Philippe ? 
+  Qui a continué de violé Vivian et Morgan après le marriage ? 
+Faut-il que je fasse des corrections sur mes vidéos concernant les viols dans l'hôtel ? 
+Quand Vivian a laissé William de côté, a-t-elle voulu me revoir ? ou toujours pas vraiment et c'était que Morgan ? 
+  Comme elle a cru que j'étais avec une 'Maud' ? elle a donné sa chance à Arnaud ? 
+
+Avec qui Vivian faisait des arts martiaux courant Août ? Chris ? José ? les deux ? 
+Y'a un gars qui s'appelle Andy ?
+
+Dad and Mom ont utilisé que Gus et Deb comme intermédiaire ?
+  Pour la veille de Noël 2017, Vivian et Morgan était en copie ? par écrit, elles recevaient des messages/textos ? 
+  Quand Deb a mis en contact Vivian avec mes proches français ? 
+    Qui a été le premier contact en France ? 
+  Vivian a contacté mes amis via LinkedIn ? 
+  Vivian a été mise en contact avec Sylvestre et Agathe qui en ont parlé à Lionel ? 
+
+C'est quoi cette putain d'histoire de Dick Pic ? Une connerie de José pour me faire passé pour un pervers dégueulasse ? 
+
