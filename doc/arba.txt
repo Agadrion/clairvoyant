@@ -1,0 +1,71 @@
+Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (oui)
+  https://www.lemonde.fr/idees/article/2019/03/28/fonction-publique-une-reforme-trop-comptable_5442610_3232.html
+  ARBA: (nom potentiel pour le conseil des 4)
+  {
+    esprits[10]:
+    [
+      RAND : Aléatoire, Hasard, (chance) [https://yugioh.fandom.com/wiki/Lucky_Chance]
+      THOR : Climat (ciel) [https://www.otk-expert.fr/yugioh/cartes/slifer-le-dragon-celeste/]
+      MARY : Végétation (terre) [https://www.lerepairedudragon.fr/76476-large_default/yugioh-dragon-rose-noire-ur-dude-.jpg]
+      TIME : Temps [https://www.otk-expert.fr/yugioh/cartes/sablier-du-courage/]
+      VIVI : Vie (animal) [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      AURA : Liens (amour, relations, réseau social/lien) (oracle de la Nature) [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-mode-sphere/][https://www.otk-expert.fr/yugioh/cartes/dragon-blazar-cosmique/]
+      EMMA : Mort [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      YUME : Rêve [https://www.otk-expert.fr/yugioh/cartes/oneiroi-roi-des-aulnes-du-miroir-des-reves/]
+      ROSE : Créativité génératrice de culture/progrès/"exploration"... [https://www.otk-expert.fr/yugioh/cartes/prophete-de-la-creation/]
+      MICA : Logique/tradition/théorie/mémoire... [https://www.otk-expert.fr/yugioh/cartes/livre-d-arts-secrets/]
+    ]
+    anges:
+    [
+      TORI : (petit mystère. tac-plafond (oui)) ...? [https://www.otk-expert.fr/yugioh/cartes/phenix-de-flammes-loiseau-de-bombardement/]
+      URYA : ...? [https://www.otk-expert.fr/yugioh/cartes/uria-seigneur-des-flammes-aveuglantes/]
+      PAUL : (père de TORI, a aidé AURA) ...?
+      ASAL (Alexandre Astier): ...?
+      ANYA : ...?
+      DUDU : ...?
+      MANU (& BIBI) : "Transmet aux autres leaders du monde.", ...?
+      TOMA (Thomas Pesquet) : ...?
+      ENOR (Elon Musk) : ...?
+      ENYA : ...?
+      TOBY : ...?
+      .... (Mylène Farmer (mifa)) : ...?
+      PIMA (Philippe Etchebest) : ...?
+      IGAI (Koji Igarashi) : ...?
+      JAMY (Jamy Gourmaud): ...?
+      BEOL (Léo Grasset): ...?
+      MOFI ("Monsieur Phi") : ...?
+      YBRU (Bruce Benamran): ...?
+      ALIA (Alexis Michalik): ...?
+      HAKU (Hayao Miyazaki): ...? 
+      JOHN (Keanu Reeves): ...? 
+      BENE (Benedict Cumberbatch): ...?
+      CHAL (Charlotte Watson) : ...?
+      HIRO (Hironobu Sakaguchi) : ...?
+    ]
+  }
+  (Les 4-lettres sont juste des noms de CODE. (ça peut se changer))
+  Il n'y a pas d'ange qui ne soit pas identifié. (Encore faut-il que je les trouve.)
+    Eiichiro Oda: humhum (non pas ange)
+    M. Night Shyamalan: humhum (non pas ange)
+    Asselineau: humhum (non pas ange)
+    Erik l'Homme: hm (pas vraiment)
+    Mylène Farmer: tac (oui)
+    Philippe Etchebest: tac (oui)
+    Koji Igarashi: tic (oui)
+    Jamy Gourmaud: tic (oui)
+    Kazuki Takahashi: (non)
+    Léo Grasset : tac-mur (oui)
+    Matthias Maurer : tactac (non)
+    "Monsieur Phi" : tac (oui)
+    Bruce Benamran : tac (oui)
+    Alexis Michalik: tac (oui)
+    Hayao Miyazaki: tac (oui)
+    Keanu Reeves: tac (oui)
+    Benedict Cumberbatch: tac (oui)
+    Charlotte Watson: tac (oui)
+    Hironobu Sakaguchi: tac-pied (oui)
+
+Généalogie spirituelle:
+RAND
+THOR MARY
+TIME VIVI AURA EMMA YUME ROSE MICA 
