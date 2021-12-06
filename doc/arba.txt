@@ -44,6 +44,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
       EVOD (Youssef Ouldali) : sport, ...?
       CORA (Coeur de Pirate) : ...?
       OLOR (Maxime Déchelle): ...?
+      LEOV (Leonid Afremov): peinture de toutes les couleurs
     ]
     lieux:
     [
@@ -74,6 +75,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     Youssef Ouldali: tic (oui) confirmé 
     Coeur de Pirate: tic (oui)
     Maxime Déchelle: tic (oui)
+    Leonid Afremov: tic (oui)
 
 Généalogie spirituelle:
 RAND
