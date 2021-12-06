@@ -5,15 +5,15 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     esprits[10]:
     [
       RAND : Aléatoire, Hasard, (chance) 2 [gris] [https://yugioh.fandom.com/wiki/Lucky_Chance]
-      THOR : Climat (ciel) 1 [rouge] [https://www.otk-expert.fr/yugioh/cartes/slifer-le-dragon-celeste/]
       MARY : Végétation (terre) 0 [marron] [https://www.lerepairedudragon.fr/76476-large_default/yugioh-dragon-rose-noire-ur-dude-.jpg]
-      TIME : Temps 8 [jaune] [https://www.otk-expert.fr/yugioh/cartes/sablier-du-courage/]
-      VIVI : Vie (animal) 9 [blanc, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
-      AURA : Liens (amour, relations, réseau social/lien) (oracle du destin (WYRD)) 6 [or, vert, bleu] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-mode-sphere/][https://www.otk-expert.fr/yugioh/cartes/dragon-blazar-cosmique/]
-      EMMA : Mort 4 [violet, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
-      YUME : Rêve 7 [turquoise] [https://www.otk-expert.fr/yugioh/cartes/oneiroi-roi-des-aulnes-du-miroir-des-reves/]
-      ROSE : Créativité génératrice de culture/progrès/"exploration"... 3 [rose] [https://www.otk-expert.fr/yugioh/cartes/prophete-de-la-creation/]
+      THOR : Climat (ciel) 1 [rouge] [https://www.otk-expert.fr/yugioh/cartes/slifer-le-dragon-celeste/]
       MICA : Logique/tradition/théorie/mémoire... 5 [noir] [https://www.otk-expert.fr/yugioh/cartes/livre-d-arts-secrets/]
+      TIME : Temps 8 [jaune] [https://www.otk-expert.fr/yugioh/cartes/sablier-du-courage/]
+      YUME : Rêve 7 [turquoise] [https://www.otk-expert.fr/yugioh/cartes/oneiroi-roi-des-aulnes-du-miroir-des-reves/]
+      AURA : Liens (amour, relations, réseau social/lien) (oracle du destin (WYRD)) 6 [or, vert, bleu] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-mode-sphere/][https://www.otk-expert.fr/yugioh/cartes/dragon-blazar-cosmique/]
+      VIVI : Vie (animal) 9 [blanc, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      EMMA : Mort 4 [violet, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      ROSE : Créativité génératrice de culture/progrès/"exploration"... 3 [rose] [https://www.otk-expert.fr/yugioh/cartes/prophete-de-la-creation/]
     ]
     anges:
     [
