@@ -31,21 +31,23 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
       .... (Mylène Farmer (mifa)) : ...?
       ETXE (Philippe Etchebest) : ...?
       IGAI (Koji Igarashi) : ...?
-      JAMY (Jamy Gourmaud): ...?
-      BEOL (Léo Grasset): ...?
+      JAMY (Jamy Gourmaud) : ...?
+      BEOL (Léo Grasset) : ...?
       MOFI ("Monsieur Phi") : ...?
-      YBRU (Bruce Benamran): ...?
-      ALIA (Alexis Michalik): ...?
-      HAKU (Hayao Miyazaki): ...? 
-      JOHN (Keanu Reeves): ...? 
+      YBRU (Bruce Benamran) : ...?
+      ALIA (Alexis Michalik) : ...?
+      HAKU (Hayao Miyazaki) : ...? 
+      JOHN (Keanu Reeves) : ...? 
       BENE (Benedict Cumberbatch): ...?
-      CHAL (Charlotte Watson) : ...?
+      JUSY (Jacqueline Luesby) : ...?
       HIRO (Hironobu Sakaguchi) : ...?
       EVOD (Youssef Ouldali) : sport, ...?
       CORA (Coeur de Pirate) : ...?
-      OLOR (Maxime Déchelle): ...?
-      LEOV (Leonid Afremov): peinture de toutes les couleurs
-      ALAE (Agnes Soulez Lariviere): écriture
+      OLOR (Maxime Déchelle) : ...?
+      LEOV (Leonid Afremov) : peinture de toutes les couleurs
+      ALAE (Agnes Soulez Lariviere) : écriture
+      ZHAO (Chloé Zhao) : cinéma
+      NOLA (Christopher Nolan) : cinéma
     ]
     lieux:
     [
@@ -71,15 +73,17 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     Hayao Miyazaki: tac (oui)
     Keanu Reeves: tac (oui)
     Benedict Cumberbatch: tac (oui)
-    Charlotte Watson: tac (oui)
+    Jacqueline Luesby: tac (oui)
     Hironobu Sakaguchi: tac-pied (oui)
     Youssef Ouldali: tic (oui) confirmé 
     Coeur de Pirate: tic (oui)
     Maxime Déchelle: tic (oui)
     Leonid Afremov: tic (oui)
     Agnes Soulez Lariviere: tac (oui)
+    Chloé Zhao: tac (oui)
+    Christopher Nolan: tac (oui)
 
 Généalogie spirituelle:
 RAND
-THOR MARY
-TIME VIVI AURA EMMA YUME ROSE MICA 
+MARY THOR 
+MICA TIME YUME AURA VIVI EMMA ROSE 
