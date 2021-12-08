@@ -29,7 +29,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
       ENYA : ...?
       TOBY : ...?
       .... (Mylène Farmer (mifa)) : ...?
-      PIMA (Philippe Etchebest) : ...?
+      ETXE (Philippe Etchebest) : ...?
       IGAI (Koji Igarashi) : ...?
       JAMY (Jamy Gourmaud): ...?
       BEOL (Léo Grasset): ...?
@@ -45,6 +45,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
       CORA (Coeur de Pirate) : ...?
       OLOR (Maxime Déchelle): ...?
       LEOV (Leonid Afremov): peinture de toutes les couleurs
+      ALAE (Agnes Soulez Lariviere): écriture
     ]
     lieux:
     [
@@ -76,6 +77,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     Coeur de Pirate: tic (oui)
     Maxime Déchelle: tic (oui)
     Leonid Afremov: tic (oui)
+    Agnes Soulez Lariviere: tac (oui)
 
 Généalogie spirituelle:
 RAND
