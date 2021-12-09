@@ -4,30 +4,30 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
   {
     esprits[10]:
     [
-      RAND : Aléatoire, Hasard, (chance) 2 [gris] [https://yugioh.fandom.com/wiki/Lucky_Chance]
-      MARY : Végétation (terre) 0 [marron] [https://www.lerepairedudragon.fr/76476-large_default/yugioh-dragon-rose-noire-ur-dude-.jpg]
-      THOR : Climat (ciel) 1 [rouge] [https://www.otk-expert.fr/yugioh/cartes/slifer-le-dragon-celeste/]
-      MICA : Logique/tradition/théorie/mémoire... 5 [noir] [https://www.otk-expert.fr/yugioh/cartes/livre-d-arts-secrets/]
-      TIME : Temps 8 [jaune] [https://www.otk-expert.fr/yugioh/cartes/sablier-du-courage/]
-      YUME : Rêve 7 [turquoise] [https://www.otk-expert.fr/yugioh/cartes/oneiroi-roi-des-aulnes-du-miroir-des-reves/]
-      AURA : Liens (amour, relations, réseau social/lien) (oracle du destin (WYRD)) 6 [or, vert, bleu] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-mode-sphere/][https://www.otk-expert.fr/yugioh/cartes/dragon-blazar-cosmique/]
-      VIVI : Vie (animal) 9 [blanc, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
-      EMMA : Mort 4 [violet, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
-      ROSE : Créativité génératrice de culture/progrès/"exploration"... 3 [rose] [https://www.otk-expert.fr/yugioh/cartes/prophete-de-la-creation/]
+      RAND () : Aléatoire, Hasard, (chance)                                                2 [gris] [https://yugioh.fandom.com/wiki/Lucky_Chance]
+      MARY () : Végétation (terre)                                                         0 [marron] [https://www.lerepairedudragon.fr/76476-large_default/yugioh-dragon-rose-noire-ur-dude-.jpg]
+      DRAC (Drac) : Climat (ciel)                                                          1 [rouge] [https://www.otk-expert.fr/yugioh/cartes/slifer-le-dragon-celeste/]
+      MICA () : Logique/tradition/théorie/mémoire...                                       5 [noir] [https://www.otk-expert.fr/yugioh/cartes/livre-d-arts-secrets/]
+      TIME () : Temps                                                                      8 [jaune] [https://www.otk-expert.fr/yugioh/cartes/sablier-du-courage/]
+      YUME () : Rêve                                                                       7 [turquoise] [https://www.otk-expert.fr/yugioh/cartes/oneiroi-roi-des-aulnes-du-miroir-des-reves/]
+      AURA (Aura) : Liens (amour, relations, réseau social/lien) (oracle du destin (WYRD)) ("mage") 6 [or, vert, bleu] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-mode-sphere/][https://www.otk-expert.fr/yugioh/cartes/dragon-blazar-cosmique/]
+      VIVI (Niké) : Vie (animal)                                                           9 [blanc, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      EMMA () : Mort                                                                       4 [violet, orange] [https://www.otk-expert.fr/yugioh/cartes/le-dragon-aile-de-ra-linvincible-phenix/]
+      ROSE () : Créativité génératrice de culture/progrès/"exploration"...                 3 [rose] [https://www.otk-expert.fr/yugioh/cartes/prophete-de-la-creation/]
     ]
     anges:
     [
-      TORI : (petit mystère. tac-plafond (oui)) ...? [https://www.otk-expert.fr/yugioh/cartes/phenix-de-flammes-loiseau-de-bombardement/]
-      URYA : ...? [https://www.otk-expert.fr/yugioh/cartes/uria-seigneur-des-flammes-aveuglantes/]
-      PAUL : (père de TORI, a aidé AURA) ...?
+      TORI (Zoé) : (petit mystère. tac-plafond (oui)) ...? [https://www.otk-expert.fr/yugioh/cartes/phenix-de-flammes-loiseau-de-bombardement/]
+      URYA (Ugo) : ...? [https://www.otk-expert.fr/yugioh/cartes/uria-seigneur-des-flammes-aveuglantes/]
+      PAUL (Paul Beaujan) : (père de TORI, a aidé AURA) ...?
       ASAL (Alexandre Astier): ...?
-      ANYA : ...?
-      DUDU : ...?
+      ANYA (Anya Taylor-Joy) : ...?
+      DUDU (Timothée Fontaine) : ...?
       MANU (& BIBI) : "Transmet aux autres leaders du monde.", ...?
       TOMA (Thomas Pesquet) : ...?
       ENOR (Elon Musk) : ...?
-      ENYA : ...?
-      TOBY : ...?
+      ENYA (Eithne Patricia Ní Bhraonáin) : ...?
+      TOBY (Toby Watson) : ...?
       .... (Mylène Farmer (mifa)) : ...?
       ETXE (Philippe Etchebest) : ...?
       IGAI (Koji Igarashi) : ...?
