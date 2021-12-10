@@ -50,6 +50,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
       ALAE (Agnes Soulez Lariviere) : écriture
       ZHAO (Chloé Zhao) : cinéma
       NOLA (Christopher Nolan) : cinéma
+      NATA (Natacha Polony) : ...?
     ]
     lieux:
     [
@@ -84,6 +85,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     Agnes Soulez Lariviere: tac (oui)
     Chloé Zhao: tac (oui)
     Christopher Nolan: tac (oui)
+    Natacha Polony: tic (oui)
 
 Généalogie spirituelle:
 RAND
