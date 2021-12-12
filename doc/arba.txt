@@ -19,38 +19,39 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     ]
     anges:
     [
-      TORI (Zoé) : (petit mystère. tac-plafond (oui)) ...? [https://www.otk-expert.fr/yugioh/cartes/phenix-de-flammes-loiseau-de-bombardement/]
-      URYA (Ugo) : ...? [https://www.otk-expert.fr/yugioh/cartes/uria-seigneur-des-flammes-aveuglantes/]
-      PAUL (Paul Beaujan) : (père de TORI, a aidé AURA) ...?
-      ASAL (Alexandre Astier): ...?
-      ANYA (Anya Taylor-Joy) : ...?
-      DUDU (Timothée Fontaine) : ...?
-      MANU (& BIBI) : "Transmet aux autres leaders du monde.", ...?
-      TOMA (Thomas Pesquet) : ...?
-      ENOR (Elon Musk) : ...?
-      ENYA (Eithne Patricia Ní Bhraonáin) : ...?
-      TOBY (Toby Watson) : ...?
-      .... (Mylène Farmer (mifa)) : ...?
-      ETXE (Philippe Etchebest) : ...?
-      IGAI (Koji Igarashi) : ...?
-      JAMY (Jamy Gourmaud) : ...?
-      BEOL (Léo Grasset) : ...?
-      MOFI ("Monsieur Phi") : ...?
-      YBRU (Bruce Benamran) : ...?
-      ALIA (Alexis Michalik) : ...?
-      HAKU (Hayao Miyazaki) : ...? 
-      JOHN (Keanu Reeves) : ...? 
-      BENE (Benedict Cumberbatch): ...?
-      JUSY (Jacqueline Luesby) : ...?
-      HIRO (Hironobu Sakaguchi) : ...?
-      EVOD (Youssef Ouldali) : sport, ...?
-      CORA (Coeur de Pirate) : ...?
-      OLOR (Maxime Déchelle) : ...?
+      TORI (Zoé) : (petit mystère. tac-plafond (oui))  [https://www.otk-expert.fr/yugioh/cartes/phenix-de-flammes-loiseau-de-bombardement/]
+      URYA (Ugo) :  [https://www.otk-expert.fr/yugioh/cartes/uria-seigneur-des-flammes-aveuglantes/]
+      PAUL (Paul Beaujan) : (père de TORI, a aidé AURA) 
+      ASAL (Alexandre Astier): 
+      ANYA (Anya Taylor-Joy) : 
+      DUDU (Timothée Fontaine) : 
+      MANU (& BIBI) : "Transmet aux autres leaders du monde."
+      TOMA (Thomas Pesquet) : 
+      ENOR (Elon Musk) : 
+      ENYA (Eithne Patricia Ní Bhraonáin) : 
+      TOBY (Toby Watson) : 
+      .... (Mylène Farmer (mifa)) : 
+      ETXE (Philippe Etchebest) : 
+      IGAI (Koji Igarashi) : 
+      JAMY (Jamy Gourmaud) : 
+      BEOL (Léo Grasset) : 
+      MOFI ("Monsieur Phi") : 
+      YBRU (Bruce Benamran) : 
+      ALIA (Alexis Michalik) : 
+      HAKU (Hayao Miyazaki) :  
+      JOHN (Keanu Reeves) :  
+      BENE (Benedict Cumberbatch): 
+      JUSY (Jacqueline Luesby) : 
+      HIRO (Hironobu Sakaguchi) : 
+      EVOD (Youssef Ouldali) : sport
+      CORA (Coeur de Pirate) : 
+      OLOR (Maxime Déchelle) : 
       LEOV (Leonid Afremov) : peinture de toutes les couleurs
       ALAE (Agnes Soulez Lariviere) : écriture
       ZHAO (Chloé Zhao) : cinéma
       NOLA (Christopher Nolan) : cinéma
-      NATA (Natacha Polony) : ...?
+      NATA (Natacha Polony) : 
+      IDIL (Adila Sedraïa dite Indila) : "Love Story", "Parle à ta tête"
     ]
     lieux:
     [
@@ -86,6 +87,7 @@ Conseil des 4 :> Fonctions "publiques" "pour le grand nombre/république". tic (
     Chloé Zhao: tac (oui)
     Christopher Nolan: tac (oui)
     Natacha Polony: tic (oui)
+    Adila Sedraïa dite Indila: tac (oui)
 
 Généalogie spirituelle:
 RAND
