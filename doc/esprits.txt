@@ -1,0 +1,13 @@
+
+Drac:
+  incarnations: Gilgamesh, Thor, Richelieu, François 1er, Victor Hugo
+
+Aura:
+  incarnations: Orion, Salomon, Achille, Loki, Jules César, Léonard de Vinci, Henri III, Louis XIV, Napoléon, Napoléon III, Takao (samouraï japonais), 
+                un cow-boy, un arménien, Charles de Gaulle
+
+Niké:
+  incarnations: 
+
+ROSE:
+  incarnations: Nikola Tesla
